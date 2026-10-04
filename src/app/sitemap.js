@@ -1,5 +1,5 @@
 export default function sitemap() {
-    const baseUrl = "https://ton-domaine.com"
+    const baseUrl = "https://fadel-nouhoun-portfolio.vercel.app/"
 
     return [
         {
