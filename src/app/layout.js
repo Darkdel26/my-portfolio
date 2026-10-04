@@ -18,7 +18,7 @@ const poppinsSans = Poppins({
 })
 
 export const metadata = {
-    metadataBase: new URL("https://fadel-nouhoun-portfolio.vercel.app/"),
+    metadataBase: new URL("https://fadel-nouhoun-portfolio.vercel.app"),
 
     title: {
         default: "Fadèl NOUHOUN | Développeur Web & Mobile",
