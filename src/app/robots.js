@@ -1,5 +1,5 @@
 export default function robots() {
-    const baseUrl = "https://fadel-nouhoun-portfolio.vercel.app/"
+    const baseUrl = "https://fadel-nouhoun-portfolio.vercel.app"
 
     return {
         rules: {
