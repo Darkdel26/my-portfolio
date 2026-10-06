@@ -98,6 +98,9 @@ export default function RootLayout({ children }) {
             lang="fr"
             className={`${poppinsSans.variable} h-full antialiased`}
         >
+            <head>
+                <meta name="google-site-verification" content="Y8llzhubfOA2U2880_tvdSMkGzi71q_pJHXOBNDoE8c" />
+            </head>
             <body className="min-h-full flex flex-col">
                 {children}
             </body>
