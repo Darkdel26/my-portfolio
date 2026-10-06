@@ -13,7 +13,6 @@ export default function Hero() {
             <div className="contenu w-full">
                 <div className="flex flex-col md:flex-row md:items-center max-md:gap-10">
 
-                    {/* Contenu texte */}
                     <motion.div
                         className="w-full md:w-1/2"
                         initial={{
@@ -120,7 +119,6 @@ export default function Hero() {
                         </div>
                     </motion.div>
 
-                    {/* Image */}
                     <motion.div
                         className="w-full md:w-1/2 md:flex md:justify-center"
                         initial={{
@@ -151,7 +149,6 @@ export default function Hero() {
                         >
                             <Image
                                 src="/hero.jpg"
-                                priority
                                 height={400}
                                 width={500}
                                 alt="Présentation de Fadèl"
