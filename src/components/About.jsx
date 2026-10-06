@@ -54,13 +54,13 @@ export default function About() {
                                     priority
                                     height={500}
                                     width={700}
+                                    priority
                                     className="w-full cursor-pointer"
                                 />
                             </motion.div>
                         </div>
                     </motion.div>
 
-                    {/* Texte */}
                     <motion.div
                         className="w-full md:w-1/2"
                         initial={{
